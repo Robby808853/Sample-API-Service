@@ -1,1 +1,4 @@
-# Sample-API-Service
+java-api-example
+================
+
+Java Api Example
