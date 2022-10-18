@@ -10,5 +10,9 @@ Code scanning enables vulnerabilities to be detected and remediated prior to rel
 # GitHub Native Solutions
 GitHub out of the box solutions are amazing, in this specific scenario, I want to scan the Sample-java-API repo code to make sure it meets the standards, auto review, check for vulnurabilities at the development stage itself, before the code with vulnerabilities gets deployed into any environments, expessally production env. This repos has GitHub CodeQL code scanning yml files and also SonarCloud as an alternative to address false positives, GitHub actions CI to execute actions under GitHub WorkFlows.
 
+<img width="682" alt="Screen Shot 2022-10-17 at 1 48 41 AM" src="https://user-images.githubusercontent.com/43921439/196513752-15261906-bd9e-42fc-b21e-70b4502b435c.png">
+
+<img width="1175" alt="Screen Shot 2022-10-16 at 11 34 31 PM" src="https://user-images.githubusercontent.com/43921439/196513823-0baf2a7a-a506-4185-9298-e8ad09167700.png">
+
 # Note: Alternative Solutions
 For your need GitHub provides alternative tools in GitHub marketplace, like SonarCloud run code scanning and analysis for GitHub workflows is an amazing feature. If you're consurned about false positives when using one code scanning tool, GitHub marketplace is always an option.
