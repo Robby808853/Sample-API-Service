@@ -1,4 +1,4 @@
-java-api-example
+Java-API-Example
 ================
 This repo has sapmle Java API source code, objective is to use GitHub out of the box Code Scanning tools like CodeQL to run code analysis, detect vulnerabilities, report them within GitHub reporting feature. Auto propose pull requests for detected vulnerabilities and verson updates from DependaBot future 
 
